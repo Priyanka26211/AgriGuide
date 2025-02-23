@@ -1,6 +1,6 @@
-# **Farming-Chatbot** 🌱🤖
+# **AgriGuide** 🌱🤖
 
-Welcome to **Farming-Chatbot**, the intelligent farming assistant designed to provide farmers with timely information and advice on crop management, pest control, weather forecasts, and sustainable farming practices. Using AI, Farming-Chatbot offers personalized guidance to make farming more efficient and help address challenges in real-time.
+Welcome to **AgriGuide**, the intelligent farming assistant designed to provide farmers with timely information and advice on crop management, pest control, weather forecasts, and sustainable farming practices. Using AI, Farming-Chatbot offers personalized guidance to make farming more efficient and help address challenges in real-time.
 
 ## 🌟 Features
 
